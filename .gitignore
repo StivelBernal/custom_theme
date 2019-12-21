@@ -1,0 +1,14 @@
+/themes/sersoluciones/assets/1x/
+/themes/sersoluciones/assets/app/img/
+/themes/sersoluciones/assets/app/fonts/
+/languages/
+/plugins/akismet/
+/plugins/index.php
+/plugins/akismet/
+/plugins/fakerpress/
+/plugins/js_composer/
+/plugins/wp-subtitle/
+/plugins/hello.php
+*.zip
+/uploads/
+index.php
